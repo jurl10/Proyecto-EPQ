@@ -1,0 +1,55 @@
+.cuadro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-style: groove;
+    border-color: black;
+    width: 200px;
+    height: 400px;
+    background-image: linear-gradient(white,blue);
+  
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+}
+.btn {
+    border-radius: 50px;
+    border: none;
+    background: linear-gradient(white, blue);
+    transition: background-color 0.3s ease,;
+}
+
+.btn:hover {
+    background-image: none;
+    background-color: blue;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn:active {
+    background-image: none; /* Elimina la imagen al hacer clic */
+    background-color: rgb(3, 250, 3);  /* Cambia a color rojo */
+    color: white;
+}
+.brd{
+border: none;
+background-color: blue;
+color: white;
+}
+.cuadroDos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-style: groove;
+    border-color: black;
+    width: 200px;
+    height: 400px;
+    background-image: linear-gradient(white,blue);
+  
+}
+
+
+
+

@@ -1,0 +1,5 @@
+
+.contenedor-padre{
+justify-content: space-around;
+display: flex;
+}

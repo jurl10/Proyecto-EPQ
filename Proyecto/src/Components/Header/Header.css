@@ -1,0 +1,7 @@
+.edi{
+display: flex;
+justify-content: center;
+border-style: groove;
+border-color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
